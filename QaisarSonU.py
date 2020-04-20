@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To RanaAahil
+#The Credit For This Code Goes To Qaisar SonU
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -58,12 +58,12 @@ logo = """
    \033[1;95m:::▒▒▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:::::         
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
   \033[1;91m:》》》\033[1;93m+NE-DENA\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-RanaAhil-\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-QaisarSonU-\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;92m..........................SonUcreations......................
 \033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
 \033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   QaisarSonU
 \033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRanAhil\033[1;95m♡╰──────────•◈•──────────╯♡"""
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mQaisarSonU\033[1;95m♡╰──────────•◈•──────────╯♡"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -90,19 +90,19 @@ print  """
  \033[1;96m ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈
   \033[1;96m ─────────────•◈•──────────  
    \033[1;92m███████▒▒Welcome To SonU CREATIONS▒▒████████
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRanAhil\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mQaisarSonU\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
-\033[1;94mRanaAhil\033[1;91m: \033[1;91▒▓██████████████]99.9
+\033[1;94mQaisarSonU\033[1;91m: \033[1;91▒▓██████████████]99.9
 \033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
 \033[1;94mWhatsapp\033[1;91m: \033[1;91m NE-DENA
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRanAhil\033[1;95m♡╰──────────•◈•──────────╯♡"""
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mQaisarSonU\033[1;95m♡╰──────────•◈•──────────╯♡"""
 jalan('              \033[1;96m....................SonU.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈   ')
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈ ")
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
-print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin RanaAhil\033[1;95m♡╰──────────•◈•──────────╯♡"
+print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin QaisarSonU\033[1;95m♡╰──────────•◈•──────────╯♡"
 
 CorrectUsername = "SonU"
 CorrectPassword = "Syco"
@@ -118,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system
+            os.system back
     else:
         print "\033[1;94mWrong Username"
-        os.sy
+        os.system back
 
 def login():
 	os.system('clear')
@@ -133,7 +133,7 @@ def login():
 		print logo
 		jalan(' \033[1;92mWarning: \033[1;97mDo Not Use Your Personal Account' )
 		jalan(' \033[1;92m   Note: \033[1;97mUse a New Account To Login' )
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRanaAhil\033[1;95m♡──────────•◈•──────────♡"
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mQaisarSonU\033[1;95m♡──────────•◈•──────────♡"
 		print('	   \033[1;94m♡\x1b[1;91m》》》》》》LOGIN WITH FACEBOOK《《《《《《\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
@@ -172,7 +172,7 @@ def login():
 				print"\n\x1b[1;91mThere is no internet connection"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\x1b[1;92mYour Account is on Checkpoint")
+			print("\n\x1b[1;92mSorry ApKa Account Checkpoint Par Hai.")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
@@ -207,7 +207,7 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;92mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:love_hacker
+	os.system("clear") #Dev:SonU_hacker
 	print logo
 	print "  \033[1;95m«-----♡----\033[1;93mLogged in User Info\033[1;95m----♡-----»"
 	print "	   \033[1;94m Name\033[1;93m:\033[1;92m"+nama+"\033[1;97m               "
@@ -259,7 +259,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRanAhil\033[1;95m♡─────────•◈•─────────♡"
+		print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mQaisarSonU\033[1;95m♡─────────•◈•─────────♡"
 		jalan('\033[1;93mGetting IDs \033[1;97m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -269,7 +269,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;96m[♡] \033[1;92mEnter ID\033[1;93m: \033[1;97m")
-		print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRanaAhil\033[1;95m♡─────────•◈•─────────╯♡"
+		print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mQaisarSonU\033[1;95m♡─────────•◈•─────────╯♡"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -416,8 +416,8 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRanAhil\033[1;95m♡──────────•◈•──────────♡"
-	print "  \033[1;93m«---•◈•---Developed By love---•◈•---»" #Dev:Rana_hacker
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mQaisarSonU\033[1;95m♡──────────•◈•──────────♡"
+	print "  \033[1;93m«---•◈•---Developed By love---•◈•---»" #Dev:SonU_hacker
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
@@ -427,7 +427,7 @@ def pilih_super():
              [███████████████]
              ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
 ♡──────────────•◈•──────────────♡.
-: \033[1;96m .....Aahil  Creations........... \033[1;93m :
+: \033[1;96m .....SonU  Creations........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
                 whatsapp Num
                +NI DENA """
